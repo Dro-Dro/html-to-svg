@@ -1,0 +1,5 @@
+circle 100 100 50 red
+circle 200 100 25 green
+circle 300 100 10 blue
+rect 400 100 100 50 yellow
+ellipse 50 50 50 30 purple
